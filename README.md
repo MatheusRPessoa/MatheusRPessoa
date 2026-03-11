@@ -2,11 +2,7 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou Matheus Pessoa - Software Developer 
-
-## Sobre mim
-
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+# Olá, eu sou Matheus Pessoa - Software Developer 
 
 ## Habilidades Tecnológicas
 
